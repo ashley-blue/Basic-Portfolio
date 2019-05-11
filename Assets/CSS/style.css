@@ -1,0 +1,28 @@
+.header1 {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header2 {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header3 {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content {
+    width: 960px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-right {
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
